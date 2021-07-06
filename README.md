@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 📫 How to reach me: Personal Website https://henryoke.com
-- 👯 I’m looking to collaborate on React projects.
+- 👯 I’m looking to collaborate on Shopify projects.
 
 <!--
 **sickerman/sickerman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

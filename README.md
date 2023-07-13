@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 📫 How to reach me: Personal Website https://henryoke.com
+- 📫 How to reach me: Personal Website https://henryoke.vercel.app
 - 👯 I’m looking to collaborate on MERN projects.
 
 <!--
